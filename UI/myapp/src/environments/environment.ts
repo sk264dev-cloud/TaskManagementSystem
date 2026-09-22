@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'http://localhost:63895/api'
+  apiUrl: 'https://taskmanagementsystem-2-wtxd.onrender.com/api'
 };
